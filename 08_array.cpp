@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    double arr[5];
+    int arr[5];
     for (int i = 0; i < 5; i++)
     {
         cin >> arr[i];
